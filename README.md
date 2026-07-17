@@ -390,3 +390,13 @@ https://github.com/rahul-ukey-7/DSA
 - File handling in C++
 - Software engineering best practices
 - Consistent coding practice
+
+  ---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/rahul-ukey-7/rahul-ukey-7/output/github-contribution-grid-snake.svg)
+
+</div>
